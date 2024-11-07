@@ -1,4 +1,4 @@
-?{https://raw.githubusercontent.com/Morgann-Chanliau/JavaSnake/refs/heads/main/Maquette%20JavaSnake.png}
+?[https://raw.githubusercontent.com/Morgann-Chanliau/JavaSnake/refs/heads/main/Maquette%20JavaSnake.png]
 
 # JavaSnake 🐍
 
