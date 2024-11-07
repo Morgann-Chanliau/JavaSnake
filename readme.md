@@ -1,3 +1,5 @@
+?{https://raw.githubusercontent.com/Morgann-Chanliau/JavaSnake/refs/heads/main/Maquette%20JavaSnake.png}
+
 # JavaSnake 🐍
 
 JavaSnake est un jeu Snake simple et classique réalisé en HTML, CSS, et JavaScript. Il s'agit d'un projet éducatif destiné à initier les développeurs aux concepts de base du développement de jeux en JavaScript.
